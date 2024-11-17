@@ -82,7 +82,8 @@ a {
     body {
      background-size: cover;
      background-repeat: no-repeat;
-     background-color: rgba(27,31,59,1);
+     background-color: linear-gradient(90deg, rgba(27,31,59,1) 0%, rgba(42,0,120,1) 74%);
+       
     }
       .h1 {
           margin-top:100px;

@@ -84,8 +84,10 @@ a {
      background-repeat: no-repeat;
      background-color: rgba(27,31,59,1);
     }
+      .h1 {
+          margin-top:100px;
+      }
 img {
-  margin-top: 0px;
   margin-left: 60px;
  height: 320px;
  width: auto;

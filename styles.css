@@ -1,6 +1,8 @@
 body {
     background: rgb(27,31,59);
 background: linear-gradient(90deg, rgba(27,31,59,1) 0%, rgba(42,0,120,1) 74%);
+background-repeat: repeat;
+background-size: cover;
 }
 
 .h1 {
@@ -9,7 +11,7 @@ background: linear-gradient(90deg, rgba(27,31,59,1) 0%, rgba(42,0,120,1) 74%);
     font-family: "Poppins", serif;
     font-weight: 400;
     font-style: normal;
-    margin-top: 400px;
+    margin-top: 100px;
     margin-left: 100px;
     margin-bottom: 0;
 }
@@ -27,9 +29,12 @@ background: linear-gradient(90deg, rgba(27,31,59,1) 0%, rgba(42,0,120,1) 74%);
 
 
 img {
-    margin-top: -400px;
-    margin-left: 1200px;
+    margin-top: -00px;
+    margin-left: 900px;
+    height: 400px;
+    width: auto;
     color: #1b1f3b;
+    
 }
 
 a {
@@ -73,4 +78,24 @@ a {
     }
 
   }
+  @media screen and (max-width: 600px) {
+    body {
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-color: rgba(27,31,59,1);
+    }
+img {
+  position: sticky;
+  margin-top: 10px;
+  margin-left: 60px;
+ height: 320px;
+ width: auto;
+}
+.h1 {
+  font-size: 25px;
+}
+  }
+  
+  
+  
   

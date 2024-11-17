@@ -88,11 +88,9 @@ a {
           margin-top:150px;
       }
 img {
-    position:sticky;
-    margin-top:0px
-  margin-left: 60px;
+    margin-top:0px;
  height: 320px;
- width: auto;
+ width: 420px;
 }
 .h1 {
   font-size: 25px;

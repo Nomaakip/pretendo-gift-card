@@ -85,8 +85,7 @@ a {
      background-color: rgba(27,31,59,1);
     }
 img {
-  position: sticky;
-  margin-top: 10px;
+  margin-top: 0px;
   margin-left: 60px;
  height: 320px;
  width: auto;

@@ -88,9 +88,10 @@ a {
           margin-top:150px;
       }
 img {
-    margin-top:0px;
+    margin-top:10px;
+    margin-left:50px;
  height: 320px;
- width: 420px;
+ width: auto;
 }
 .h1 {
   font-size: 25px;

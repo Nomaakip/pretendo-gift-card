@@ -11,7 +11,7 @@ background-size: cover;
     font-family: "Poppins", serif;
     font-weight: 400;
     font-style: normal;
-    margin-top: 100px;
+    margin-top: 400px;
     margin-left: 100px;
     margin-bottom: 0;
 }
@@ -29,8 +29,8 @@ background-size: cover;
 
 
 img {
-    margin-top: -00px;
-    margin-left: 900px;
+    margin-top: -400px;
+    margin-left: 1200px;
     height: 400px;
     width: auto;
     color: #1b1f3b;
